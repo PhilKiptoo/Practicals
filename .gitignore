@@ -8,3 +8,8 @@ prac 1/
 *.pyc
 */__pycache__/
 temp/*
+
+# Generated output files
+name.txt
+stock_output.txt
+
