@@ -1,0 +1,10 @@
+# Course master folder and draft folders
+Practicals-master/
+prac 1/
+
+# IDE and OS files
+.idea/
+.DS_Store
+*.pyc
+*/__pycache__/
+temp/*
