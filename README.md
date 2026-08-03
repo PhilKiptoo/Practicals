@@ -9,14 +9,13 @@ Each folder (`prac_01` through `prac_07` and beyond) contains exercises complete
 **Subject:** CP1404 - Introductory Programming  
 **University:** James Cook University
 
-## Lessons Learned About Clean Code
+## Clean Code Lessons
 
-- **Use meaningful names:** Variable and function names should clearly describe what they store or do, making code readable without needing comments.
-- **Single Responsibility Principle (SRP):** Each function should do one thing only. Keeping functions focused makes them easier to test and reuse.
-- **Don't Repeat Yourself (DRY):** Avoid duplicating logic. If you write the same code twice, it should be a function.
-- **Follow established patterns:** Using consistent patterns (like EAFP for dictionaries, or a standard menu loop) makes code predictable and easier to maintain.
+- Always use clear, descriptive names for functions and variables so anyone reading the code can understand what it does without guessing.
+- Keep functions short and focused on a single job. When a function tries to do too many things, debugging and testing become much harder.
+- Avoid copying and pasting code. If I write the same logic twice, it's better to move it into a helper function to keep the codebase clean.
 
-## Useful Links
+## Links
 
-- [Programming Patterns](https://github.com/CP1404/Starter/wiki/Programming-Patterns)
-- [CP1404 Practicals Repository](https://github.com/CP1404/Practicals)
+- Here is the [JCU Programming Patterns wiki](https://github.com/CP1404/Starter/wiki/Programming-Patterns) for clean code guidelines.
+- Here is the [JCU Practicals instructions](https://github.com/CP1404/Practicals) repository containing the template files.
