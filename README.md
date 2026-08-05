@@ -3,7 +3,7 @@
 ## About This Repository
 
 This repository contains my practical work for CP1404 (Introductory Programming) at James Cook University.  
-Each folder (`prac_01` through `prac_07` and beyond) contains exercises completed during the semester.
+Each folder (`prac_01` through `prac_08` and beyond) contains exercises completed during the semester.
 
 **Author:** Phil Kiptoo  
 **Subject:** CP1404 - Introductory Programming  
